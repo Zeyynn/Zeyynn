@@ -5,15 +5,17 @@
       <img src="https://github.com/user-attachments/assets/870d3dee-c26c-47c9-99ec-dd237ee46fdf" alt="output-onlinegiftools" width="200">
     </td>
     <td>
-      <strong>🎓 Final Year Student</strong> at <strong>Universiti Malaysia Sultan Abdullah Pahang</strong>,<br>
-      📚 Faculty of Computing, specializing in <strong>Software Engineering</strong>.
-      <br><br>
       ### 🚀 About Me  
       I’m a passionate student exploring the vast world of software engineering.  
       I strive to build user-centered solutions while mastering the art of design and code.
+      <br><br>
+      ### 📜 Academics  
+      🎓 <strong>Final Year Student</strong> at <strong>Universiti Malaysia Sultan Abdullah Pahang</strong>,<br>
+      📚 Faculty of Computing, specializing in <strong>Software Engineering</strong>.
     </td>
   </tr>
 </table>
+
 
 ---
 
