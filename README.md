@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Razin!
 
-
-![Uploading ezgif-1-4fe9b02572.gif…]()
+![valorant](https://github.com/user-attachments/assets/4525bb7c-c092-46a3-af05-58e4dad51f33)
 
 
 🎓 **Final Year Student** at **Universiti Malaysia Sultan Abdullah Pahang**,  
