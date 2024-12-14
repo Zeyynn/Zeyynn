@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Razin!
 
 ![3499c198-cec1-4233-bb25-eb70ccf76826_512x512](https://github.com/user-attachments/assets/b7c107e1-6021-4346-b9e5-b10c7afc95ec)
-![0332399358eab27d032f75ece9c0c788](https://github.com/user-attachments/assets/d9c9da53-71f5-408b-9e2f-274ab9f70074)
 
 
 🎓 **Final Year Student** at **Universiti Malaysia Sultan Abdullah Pahang**,  
