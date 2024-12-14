@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Zeyn!
+# Hi there 👋, I'm Razin!
 
 🎓 **Final Year Student** at **Universiti Malaysia Sultan Abdullah Pahang**,  
 📚 Faculty of Computing, specializing in **Software Engineering**.
