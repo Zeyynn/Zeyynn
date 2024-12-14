@@ -26,8 +26,8 @@ I strive to build user-centered solutions while mastering the art of design and 
 ---
 
 ### 📫 Let’s Connect  
-- **LinkedIn:** [Your LinkedIn Profile](#)  
-- **Email:** zeyn@example.com  
+- **LinkedIn:** [(https://www.linkedin.com/in/hariz-razin-m-893638302/)](#)  
+- **Email:** razinhariz@gmail.com  
 
 ---
 
