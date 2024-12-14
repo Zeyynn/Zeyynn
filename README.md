@@ -26,7 +26,7 @@ I strive to build user-centered solutions while mastering the art of design and 
 ---
 
 ### 📫 Let’s Connect  
-- **LinkedIn:** https://www.linkedin.com/in/hariz-razin-m-893638302(#)  
+- **LinkedIn:** [([https://www.linkedin.com/in/hariz-razin-m-893638302](https://www.linkedin.com/in/hariz-razin-m-893638302/))(#) ](https://www.linkedin.com/in/hariz-razin-m-893638302/) 
 - **Email:** razinhariz@gmail.com  
 
 ---
