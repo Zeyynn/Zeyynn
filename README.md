@@ -53,7 +53,7 @@ I dream of building user-centered solutions while trying to make sense of my cod
 ---
 
 ### 📊 GitHub Stats  
-![Zeyynn's Stats](https://github-readme-stats.vercel.app/api?username=Zeyynn&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)![Zeyynn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeyynn&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Zeyynn's Stats](https://github-readme-stats.vercel.app/api?username=Zeyynn&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![Zeyynn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeyynn&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 <h3 align="left">Languages and Tools:</h3>
