@@ -14,7 +14,7 @@
   <tr>
     <td>
        I'm a student casually drowning in the vast ocean of software engineering.
-I dream of building user-centered solutions while trying to make sense of my code, one at a time. Caffeine is my therapy, and debugging is my daily existential crisis T_T
+I dream of building user-centered solutions while trying to make sense of my code(no it dosen't), one at a time. Caffeine is my therapy, and debugging is my daily existential crisis T_T
       <br><br>
     </td>
     <td>
