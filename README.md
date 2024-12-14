@@ -26,14 +26,14 @@ I strive to build user-centered solutions while mastering the art of design and 
 ---
 
 ### 📫 Let’s Connect  
-- **LinkedIn:** [([https://www.linkedin.com/in/hariz-razin-m-893638302](#)
+- **LinkedIn:** [[([https://www.linkedin.com/in/hariz-razin-m-893638302](#)]
 - **Email:** razinhariz@gmail.com  
 
 ---
 
 ### ⚡ Fun Facts  
-- 🌱 Currently learning to integrate businesses using SAP under the Material Management module.  
-- 🎮 Anime enthusiast and tech explorer in my free time!  
+- 🌱 Currently learning to integrate businesses using SAP under the Integgrated Business.  
+- 🎮 Watches TV Shows and Movies
 
 ---
 
