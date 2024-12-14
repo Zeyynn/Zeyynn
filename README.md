@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Razin!
 
 
+![Uploading ezgif-1-4fe9b02572.gif…]()
 
 
 🎓 **Final Year Student** at **Universiti Malaysia Sultan Abdullah Pahang**,  
