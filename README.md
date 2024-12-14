@@ -13,8 +13,8 @@
     </tr>
   <tr>
     <td>
-       I’m a passionate student exploring the vast world of software engineering.  
-      I strive to build user-centered solutions while mastering the art of design and code.
+       I'm a student casually drowning in the vast ocean of software engineering.
+I dream of building user-centered solutions while trying to make sense of my code, one meme at a time. Design is my therapy, and debugging is my daily existential crisis T_T
       <br><br>
     </td>
     <td>
