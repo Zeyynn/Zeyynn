@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Razin!
 
+<div align="center">
 ![output-onlinegiftools](https://github.com/user-attachments/assets/07bac959-0bfe-44b0-bfff-acbf32969b0d)
-
-
+  </div>
 🎓 **Final Year Student** at **Universiti Malaysia Sultan Abdullah Pahang**,  
 📚 Faculty of Computing, specializing in **Software Engineering**.
 
