@@ -47,7 +47,7 @@
 ---
 
 ### ⚡ Fun Facts  
-- 🌱 Currently learning to integrate businesses using SAP under the Integgrated Business.  
+- 🌱 Currently learning SAP under the Integgrated Business.  
 - 🎮 Watches TV Shows and Movies
 
 ---
