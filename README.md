@@ -1,15 +1,15 @@
 # Hi there 👋, I'm Razin!
-<div>
-<div align="center">
-
-![output-onlinegiftools](https://github.com/user-attachments/assets/870d3dee-c26c-47c9-99ec-dd237ee46fdf)
-
-</div>
-  
-🎓 **Final Year Student** at **Universiti Malaysia Sultan Abdullah Pahang**,  
-📚 Faculty of Computing, specializing in **Software Engineering**.
-</div>
----
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/870d3dee-c26c-47c9-99ec-dd237ee46fdf" alt="output-onlinegiftools" width="200">
+    </td>
+    <td>
+      <strong>🎓 Final Year Student</strong> at <strong>Universiti Malaysia Sultan Abdullah Pahang</strong>,<br>
+      📚 Faculty of Computing, specializing in <strong>Software Engineering</strong>.
+    </td>
+  </tr>
+</table>
 
 ### 🚀 About Me  
 I’m a passionate student exploring the vast world of software engineering.  
