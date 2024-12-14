@@ -18,7 +18,7 @@
       <br><br>
     </td>
     <td>
-      🎓 <strong>Final Year Student</strong> at <strong>Universiti Malaysia Sultan Abdullah Pahang</strong>,<br>
+      🎓 <strong>Final Year Student</strong> at <strong>Universiti Malaysia Pahang Sultan Abdullah</strong>,<br>
       📚 Faculty of Computing, specializing in <strong>Software Engineering</strong>.
     </td>
   </tr>
