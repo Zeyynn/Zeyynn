@@ -6,21 +6,18 @@
     </td>
     <td>
       ### 🚀 About Me  
-      <tr>
-        I’m a passionate student exploring the vast world of software engineering.  
-      I strive to build user-centered solutions while mastering the art of design and code.
-      </tr><br><br>
-      ### 📜 Academics  
+      <br><br>
+      ### 📜 Academics
     </td>
     <td>
-      
-      <td>
-        🎓 <strong>Final Year Student</strong> at <strong>Universiti Malaysia Sultan Abdullah Pahang</strong>,<br>
+      I’m a passionate student exploring the vast world of software engineering.  
+      I strive to build user-centered solutions while mastering the art of design and code.
+      <br><br>
+      🎓 <strong>Final Year Student</strong> at <strong>Universiti Malaysia Sultan Abdullah Pahang</strong>,<br>
       📚 Faculty of Computing, specializing in <strong>Software Engineering</strong>.
-      </td>
+    </td>
   </tr>
 </table>
-
 
 ---
 
