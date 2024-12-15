@@ -109,4 +109,4 @@ I dream of building user-centered solutions while trying to make sense of my cod
 
 ---
 
-Feel free to connect and collaborate! 🚀
+<h1 align="center">Feel free to connect and collaborate! 🚀</h1>
