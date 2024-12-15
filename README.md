@@ -1,4 +1,4 @@
-# Annyeonghaseyo 👋, I'm Razin!
+# Hola 👋, I'm Razin!
 <table>
   <tr>
     <td rowspan="2">
