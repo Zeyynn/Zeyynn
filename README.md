@@ -19,7 +19,7 @@ I dream of building user-centered solutions while trying to make sense of my cod
     </td>
     <td>
       🎓 <strong>Final Year Student</strong> at <strong>Universiti Malaysia Pahang Sultan Abdullah</strong>,<br>
-      📚 Faculty of Computing, specializing in <strong>Software Engineering</strong>.
+      📚 <strong>Faculty of Computing</strong>, specializing in <strong>Software Engineering</strong>.
     </td>
   </tr>
 </table>
