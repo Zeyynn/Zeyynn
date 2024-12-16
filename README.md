@@ -1,4 +1,6 @@
-# Hola 👋, I'm Razin!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=4000&pause=1000&color=004EFF&background=4800A800&center=true&vCenter=true&width=435&lines=Hola+%F0%9F%91%8B%2C+I'm+Razin!++)](https://git.io/typing-svg)
+
+---
 <table>
   <tr>
     <td rowspan="2">
@@ -107,6 +109,16 @@ I dream of building user-centered solutions while trying to make sense of my cod
 
 </div>
 
+
+---
+<h3 align="left">Repository Card Highlights</h3>
+<div align="center">
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeyynn&repo=E-Munakahat-System&theme=outrun)](https://github.com/Zeyynn/E-Munakahat-System)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeyynn&repo=Academic-Support-System&theme=outrun)](https://github.com/Zeyynn/Academic-Support-System)
+</div>
+
 ---
 
 <h1 align="center">Feel free to connect and collaborate! 🚀</h1>
+
