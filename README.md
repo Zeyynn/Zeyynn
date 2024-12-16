@@ -2,6 +2,7 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=4000&pause=1000&color=004EFF&background=4800A800&center=true&vCenter=true&width=435&lines=Hola+%F0%9F%91%8B%2C+I'm+Razin!++)](https://git.io/typing-svg)
 </div>
+
 ---
 <table>
   <tr>
