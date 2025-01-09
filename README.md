@@ -117,7 +117,7 @@ I dream of building user-centered solutions while trying to make sense of my cod
 <h3 align="left">Repository Card Highlights</h3>
 <div align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeyynn&repo=PartyEventApp&theme=outrun)](https://github.com/Zeyynn/PartyEventApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeyynn&repo=Cafe-Management-System-FYP-&theme=outrun)](https://github.com/Zeyynn/Cafe-Management-System-FYP-)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeyynn&repo=SEP-Kafa-Management-System&theme=outrun)](https://github.com/Zeyynn/SEP-Kafa-Management-System)
 
 
