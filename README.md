@@ -19,7 +19,7 @@
   <tr>
     <td>
        I'm a student casually drowning in the vast ocean of software engineering.
-I dream of building user-centered solutions while trying to make sense of my code <strong>(no it dosen't)</strong>, one at a time. Caffeine is my therapy, and debugging is my daily existential crisis T_T
+I dream of building user-centered solutions while trying to make sense of my code <strong>(no it dosen't)</strong>, one at a time. Caffeine is my therapy, and debugging is my daily existential crisis T_T<br><br>I'm currently seeking for Internship placement on March 2025
       <br><br>
     </td>
     <td>
