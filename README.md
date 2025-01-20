@@ -88,18 +88,16 @@ I dream of building user-centered solutions while trying to make sense of my cod
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/html.svg" height="50" width="50" />
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50" width="50" /></td>
     <td allign="center">
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/databases/mysql.svg" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/databases/oracle.svg" height="50" width="50" /></td>
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/databases/mysql.svg" height="50" width="50" /></td>
     <td allign="center">
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/frameworks/laravel.svg" alt="java" height="50" width="50" /></td>
     <td allign="center">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=ae"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/></td>
     <td allign="center">
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/vscode.svg" alt="java" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/ides/intellij.svg" alt="java" height="50" width="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/ides/android-studio.svg" alt="java" height="50" width="50" /></td>
   </tr>
 </table>
