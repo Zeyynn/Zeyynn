@@ -53,7 +53,7 @@ I dream of building user-centered solutions while trying to make sense of my cod
 
 ### ⚡ Fun Facts  
 - 🌱 Currently learning SAP under the Integgrated Business.  
-- 🎮 Watches TV Shows and Movies
+- 🎮 Watches TV Shows, Movies and Play Games
 
 ---
 
