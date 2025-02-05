@@ -32,7 +32,7 @@ I dream of building user-centered solutions while trying to make sense of my cod
 ---
 
 ### 🛠️ Skills  
-- **Development:** PHP, HTML, JavaScript, Front-End Coding, Back-End Coding  
+- **Development:** PHP, HTML, JavaScript, ReactJS, Front-End Coding, Back-End Coding  
 - **Soft Skills:** Strong Communication, English Proficiency, Problem-Solving  
 - **Design Expertise:** Web Design, Design Thinking, Web Development  
 
