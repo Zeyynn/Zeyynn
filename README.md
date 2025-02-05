@@ -47,7 +47,8 @@ I dream of building user-centered solutions while trying to make sense of my cod
 
 ### 📫 Let’s Connect  
 - **LinkedIn:** https://www.linkedin.com/in/hariz-razin-m-893638302
-- **Email:** razinhariz@gmail.com  
+- **Email:** razinhariz@gmail.com
+- **Portfolio** https://razin-portfolio-react-js.vercel.app
 
 ---
 
