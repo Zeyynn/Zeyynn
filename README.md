@@ -18,7 +18,7 @@
     </tr>
   <tr>
     <td>
-       I'm a student casually drowning in the vast ocean of software engineering.
+       I'm an graduand casually drowning in the vast ocean of software engineering.
 I dream of building user-centered solutions while trying to make sense of my code <strong>(no it dosen't)</strong>, one at a time. Caffeine is my therapy, and debugging is my daily existential crisis T_T<br><br>I'm currently in placement for Internship at Trigon Tech Sdn Bhd
       <br><br>
     </td>
@@ -32,7 +32,7 @@ I dream of building user-centered solutions while trying to make sense of my cod
 ---
 
 ### 🛠️ Skills  
-- **Development:** PHP, HTML, JavaScript, ReactJS, Front-End Coding, Back-End Coding  
+- **Development:** PHP, HTML, JavaScript, React, Laravel
 - **Soft Skills:** Strong Communication, English Proficiency, Problem-Solving  
 - **Design Expertise:** Web Design, Design Thinking, Web Development  
 
@@ -53,8 +53,7 @@ I dream of building user-centered solutions while trying to make sense of my cod
 ---
 
 ### ⚡ Fun Facts  
-- 🌱 Currently learning SAP under the Integgrated Business.  
-- 🎮 Watches TV Shows, Movies and Play Games
+- 🫲 Left Handed.
 
 ---
 
