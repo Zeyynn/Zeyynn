@@ -18,15 +18,15 @@
     </tr>
   <tr>
     <td>
-       I'm an graduand casually drowning in the vast ocean of software engineering.
-I dream of building user-centered solutions while trying to make sense of my code <strong>(no it dosen't)</strong>, one at a time. Caffeine is my therapy, and debugging is my daily existential crisis T_T<br><br>I'm currently just completed my Internship and Trigon Tech and pursuing a Web Development or SAP career
+       I'm an fresh graduate casually drowning in the vast ocean of software engineering.
+I dream of building user-centered solutions while trying to make sense of my code <strong>(no it dosen't)</strong>, one at a time. Caffeine is my therapy, and debugging is my daily existential crisis T_T<br><br>I'm currently working as a Junior PHP Developer under a company named Webby Group<br><br>Before working at Webby, I was working at Trigon Tech Sdn Bhd as a Full Stack Developer (Internship)
       <br><br>
     </td>
     <td>
       <div>
       <span>🎓</span>
       </div> 
-      <strong>Soon to be gradutate</strong> at <strong>Universiti Malaysia Pahang Sultan Abdullah</strong>,<br>
+      <strong>A Fresh Graduate</strong> at <strong>Universiti Malaysia Pahang Sultan Abdullah</strong>,<br>
       <div>📚<span/>
       </div>
        <strong>Faculty of Computing</strong>, specializing in <strong>Software Engineering</strong>.
